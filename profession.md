@@ -1,7 +1,7 @@
 # Professionalisierung
 
 ## Cloos
-
+Das könnte doch ein guter flow werden. Bravo :)
 Professionaliserung der Kindertagesbetreung (Peter Cloos)
 Professionstheoretische Vergewisserug
 
