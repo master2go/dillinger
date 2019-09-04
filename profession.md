@@ -3,22 +3,21 @@
 ## Cloos
 Das könnte doch ein guter flow werden. Bravo :)
 Professionaliserung der Kindertagesbetreung (Peter Cloos)
-Professionstheoretische Vergewisserug
+Professionstheoretische Vergewisserung
 
 * Abschied von merkmalstheoretischen Modellen
 * Das Wort Profession hat nicht nur einen beschreibenden, sonden auch einen bewertetenden Charakter
 * Professionsbegriff immer auch Entwicklungscharakter
 * Professionalität wird nicht individuell hergstellt, sondern wird performativ in Situationen hervorgebracht!! (performativ = einen Sprachhandlung,dh, Handlung, die durch das Sprechen selbst geschieht
 
-### Perspektiven der Professionalität
+### Perspektiven der Professionalität (kollekiv u individuell )
 
-#### kollektive Ebene
+auf **kollektiver Ebene** 
+setzt Professionalität, eine bestimmte histoisch-gesellschftlche Entwicklung voraus
 
-##### Profess, setzt eine bestimmte histoisch-gesellschftlche Entwicklung voraus
+dazwischen steht die Kultur des Berufes, die entscheidend dazu beiträgt ob und wie sich professioneller Status und professionelles Handeln durchsetzen
 
-#### dazwischen steht die Kultur des Berufes, die entscheidend dazu beiträgt ob und wie sich professioneller Status und professionelles Handeln durchsetzen
-
-#### individuelle Ebene
+**individuelle Ebene**
 
 ##### berufsbiographisches Entwicklungsproblem
 
@@ -36,27 +35,21 @@ Professionstheoretische Vergewisserug
 
 ##### z.B. Analyse der Arbeitsmarktsituation der Fachkräfte, ermittelt die Rahmenbedingungen professionellen Handelns, geht der Frage der gesellschaftlichen Anerkennung nach
 
-#### Ist etweder Dispositionsforschung
-
+#### Ist entweder Dispositionsforschung
 Nicht das tatsächliche Können wird analysiert, somdern die Dispositon dazu
-
-##### Wissen, päd. Orientierung, Deutungsmuster, Biografien werden untersucht
-
-###### Topic
+d.h. Wissen, päd. Orientierung, Deutungsmuster, Biografien werden untersucht
 
 #### oder Performanzforschung
+Nimmt die im Handeln tatsächlich realisierten Kompetenzen und die Qualität des Handelns in den Blick
+z,b. mittels Qualitative Interviews, Videoananalysen, Interaaktionsprotokolle von Teamsitzungen und Elterngesprächen
 
-Nimmt die im Handelntatsächlich realisierten Kompetenzen und die Qualität des Handelns in den Blick
-
-##### Qualitative Interviews, Videoananalysen, Interaaktionsprotokolle von Teamsitzungen und Elterngesprächen
-
-#### Fazit
+### Fazit
 
 ##### Es wird kaum von der Kindheitspädagogischen Profession gesprochen. Eher Professionalität oder Professionalisierung
 
-###### 1. weil sich aufgrund der aktuellen Reformerwartung, das Augenmerk auf die Möglichkeit der Optimierung des frühkindlichen Handelns richtet
+1. weil sich aufgrund der aktuellen Reformerwartung, das Augenmerk auf die Möglichkeit der Optimierung des frühkindlichen Handelns richtet
 
-###### und 2. der geringe Akademisierungsgrad 4% mit der klassischen Professionsthorie kaum vereinbar ist
+und 2. der geringe Akademisierungsgrad von 4% mit der klassischen Professionsthorie kaum vereinbar ist
 
 ### weiterlesen
 
@@ -71,7 +64,7 @@ Nimmt die im Handelntatsächlich realisierten Kompetenzen und die Qualität des 
 Trotz wachsender Erwartungen an Professionalisierung, wenig Anerkennung, schlechte Aufstiegschancen, geringe Bezahlung
  
 
-##### Arbeitsmarktpolitik: Frauen könnne zurück in den Beruf
+##### Arbeitsmarktpolitik: Frauen können zurück in den Beruf
 
 ##### Sozialpolitik: Defizite kompensieren
 
@@ -107,20 +100,20 @@ Es besteht aufgrund extrem hoher Erwartungen, siehe S.29 unten, ein hoher Druck 
 
 ######  
 
-#### Professionelle Autonomie
+#### Professionelle Autonomie, ist de facto nicht vorhanden
 
 Überspitzt formuliert Spielball von 
 Leitungserbirnger = Träger
 Leistungsgewährer = Kommunen
 Leistungsnutzer = Kinder/Eltern
 
-##### Ist de facto nicht vorhanden
 
-###### Arbeitsverbände auf Hochschulebene arbeiten daran Standards neu zu rahmen
 
-### Das Aufgabenprofil S.29 unten
+* Arbeitsverbände auf Hochschulebene arbeiten daran Standards neu zu rahmen
 
-#### sehr gut für die Einleitung
+* Das Aufgabenprofil S.29 unten
+
+* sehr gut für die Einleitung
 
 ### Professionaliseirungsdilemma der Kindertagesbetreuung
 
